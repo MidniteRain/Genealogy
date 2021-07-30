@@ -1,4 +1,4 @@
-# Kweseltken
+# Kweseltken Home Page
 ## Secwépemc Family Connections
 
 ## Welcome to GitHub Pages
